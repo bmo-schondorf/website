@@ -1,0 +1,54 @@
+baseurl         = "/"
+title = "Blasmusikorchester Schondorf"
+theme           = "casper-two"
+languageCode    = "de-de"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Blasmusikorchester Schondorf"
+  subtitle    = ""
+  copyright   = "© Blasmusikorchester Schondorf 2018"
+
+  cover       = "img/bos-DSC_0976-bg-1920-2.jpg"
+  description = "Here is a description of your site."
+  customCSS = []
+
+  logo = ""
+  orgName = ""
+  orgWebsite = "https://www.blasmusikorchester-schondorf.de"
+  orgDescription = "Blasmusikorchester Schondorf"
+
+  showSupport = true
+
+  author = "HM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Dießen"
+  authorWebsite = "https://www.cyberconcepts.de"
+  authorDescription = "Helmut Merz"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+  
+[taxonomies]
+  category = "themen"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Startseite"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Themen"
+  url = "/themen/"
+  weight = 99
+
+
