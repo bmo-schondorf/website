@@ -1,9 +1,9 @@
 ---
-date: 2018-08-09
+date: 2018-11-20
 linktitle: Repertoire
 title: Repertoire
 description: "Unser Repertoire: Klassik - Rock/Pop - Bayerisch-Böhmisch"
-weight: 10
+weight: 25
 image: img/team.jpg
 themen: ["musik"]
 author: VH

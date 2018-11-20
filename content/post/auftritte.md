@@ -1,20 +1,21 @@
 ---
 author: ""
-date: 2018-07-09
+date: 2018-11-20
 linktitle: Auftritte
 title: Unsere Auftritte
-description: Die nächsten Auftritte und Konzerte
-weight: 10
+description: "15.12.18: Weihnachtsmarkt"
+weight: 30
 themen : ["termine"]
 ---
 
 ## Die nächsten Auftritte und Konzerte
 
-## 29. Juli 2018: St. Anna Fest
+## 15. Dezember 2018: Eröffnung des Schondorfer Weihnachtsmarkts
 
-Wie jedes Jahr im Juli ... beim Sailer in Schondorf.
+Wie jedes Jahr am Samstag vor dem 3. Advent, Beginn 14:00
 
 # Vergangene Auftritte
 
+* 29. Juli 2018: St.-Anna-Fest
 * 7. Juli 2018: Bürgerfest
 * 6. Mai 2018: Konzert
