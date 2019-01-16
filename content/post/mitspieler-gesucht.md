@@ -7,7 +7,6 @@ nomenu:
 title: Mitspieler gesucht
 weight: 25
 image: img/mitspieler.jpg
-authorAvatar: hugo-logo.png
 themen: ["musiker"]
 ---
 
