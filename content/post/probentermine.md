@@ -1,6 +1,6 @@
 ---
 author: ""
-date: 2018-11-20
+date: 2019-01-16
 linktitle: Probentermine
 title: Probentermine
 description: Die Proben sind 14tägig am Mittwoch von 20 bis 22 Uhr.
