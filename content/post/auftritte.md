@@ -1,21 +1,23 @@
 ---
 author: ""
-date: 2018-11-20
+date: 2019-01-28
 linktitle: Auftritte
 title: Unsere Auftritte
-description: "15.12.18: Weihnachtsmarkt"
+description: "15.12.18: Schondorfer Weihnachtsmarkt"
 weight: 30
+image: img/181216-weihnachtsmarkt-154014.jpeg
 themen : ["termine"]
 ---
 
 ## Die nächsten Auftritte und Konzerte
 
-## 15. Dezember 2018: Eröffnung des Schondorfer Weihnachtsmarkts
+## 1. Mai 2019
 
-Wie jedes Jahr am Samstag vor dem 3. Advent, Beginn 14:00
+Wir spielen ab ... zum Frühschoppen.
 
 # Vergangene Auftritte
 
+* 15. Dezember 2018: Eröffnung des Schondorfer Weihnachtsmarkts
 * 29. Juli 2018: St.-Anna-Fest
 * 7. Juli 2018: Bürgerfest
 * 6. Mai 2018: Konzert

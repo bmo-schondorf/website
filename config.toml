@@ -13,6 +13,7 @@ canonifyurls    = true
   copyright   = "© Blasmusikorchester Schondorf 2018"
 
   cover       = "img/bos-DSC_0976-bg-1920-2.jpg"
+  #cover        = "img/181216-weihnachtsmarkt-154014.jpeg"
   description = "Here is a description of your site."
   customCSS = []
 
