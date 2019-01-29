@@ -1,6 +1,6 @@
 +++
 comments = false
-date = "2015-04-14T22:17:00+00:00"
+date = "2019-01-29"
 draft = false
 noauthor = true
 share = false
@@ -9,9 +9,30 @@ type = "page"
 weight = 111
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+### 1. Name und Anschrift des Verantwortlichen
+
+Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
+
+Blasmusikorchester Schondorf e.V.  
+1. Vorstand: Manfred Billich  
+
+### 2. Erhebung und Verarbeitung persönlicher Daten
+
+Bei dem Besuch dieser Website werden auf unserem Server in sogenannten Logdateien Informationen gespeichert, die uns Ihr Browser übermittelt (Uhrzeit der Serveranfrage, IP-Adresse, Browsertyp/-version, verwendetes Betriebssystem, Referrer URL). Diese Daten werden automatisch nach vier Kalenderwochen gelöscht. Die Speicherung dieser Informationen in Server-Log-Daten ist für die Sicherheit und den Schutz dieser Website erforderlich. Eine Zuordnung der Daten zu bestimmten Personen ist nicht möglich, personenbezogene Daten werden nicht erhoben, es findet keinerlei Auswertung der Informationen in den Logdateien statt, die über das Erkennen und die Abwehr von Angriffen auf die Website hinausgeht.
+
+### 3. Auskunft, Berichtigung, Sperrung und Löschung von Daten
+
+Auf dieser Website werden grundsätzlich keinerlei personenbezogene Daten erhoben.
+
+### 4. Cookies
+
+Auf dieser Website werden keine Cookies verwendet. 
+
+### 5. Keine Haftung für verlinkte Internetseiten
+
+Diese Website kann Links zu Websiten anderer Anbieter enthalten, auf die sich diese Datenschutzerklärung nicht erstreckt. Diese Anbieter sind für die Einhaltung der datenschutzrechtlichen Regelungen selbst verantwortlich und haben in der Regel eigene Datenschutzerklärungen. Für diese Internetseitenund Dienste sowie Erklärungen übernehmen wir keine Haftung.
+
+### 6. Webanalysedienste
+
+Diese Website nutzt keine Webanalysedienste, d.h. es findet keinerlei Aufzeichnung oder Verfolgung (Tracking) Ihrer Aktivitäten auf dieser Website statt.
+
