@@ -1,17 +1,15 @@
-+++
-comments = false
-date = "2011-01-29T00:00:00+01:00"
-draft = false
-linktitle = "Über uns"
-noauthor = true
-share = false
-type = "page"
-
-[menu]
-  [menu.main]
-    weight = 111
-
-+++
+---
+comments: false
+date: "2011-01-29T00:00:00+01:00"
+draft: false
+linktitle: Über uns
+menu:
+  main:
+    weight: 111
+noauthor: true
+share: false
+type: page
+---
 
 ## Über uns
 

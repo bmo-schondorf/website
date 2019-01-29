@@ -1,14 +1,14 @@
-+++
-author = ""
-date = "2019-01-28"
-description = "15.12.18: Schondorfer Weihnachtsmarkt"
-image = "img/181216-weihnachtsmarkt-154014.jpeg"
-linktitle = "Auftritte"
-themen = ["termine"]
-title = "Unsere Auftritte"
-weight = 30
-
-+++
+---
+author: ""
+date: "2019-01-28"
+description: '15.12.18: Schondorfer Weihnachtsmarkt'
+image: img/181216-weihnachtsmarkt-154014.jpeg
+linktitle: Auftritte
+themen:
+- termine
+title: Unsere Auftritte
+weight: 30
+---
 
 ## Die nächsten Auftritte und Konzerte
 

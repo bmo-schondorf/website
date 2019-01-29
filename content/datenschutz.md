@@ -1,14 +1,13 @@
-+++
-comments = false
-date = "2019-01-29"
-draft = false
-noauthor = true
-share = false
-title = "Datenschutzerklärung"
-type = "page"
-weight = 111
-
-+++
+---
+comments: false
+date: "2019-01-29"
+draft: false
+noauthor: true
+share: false
+title: Datenschutzerklärung
+type: page
+weight: 111
+---
 ### 1. Name und Anschrift des Verantwortlichen
 
 Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:

@@ -1,13 +1,13 @@
-+++
-author = ""
-date = "2019-01-24"
-description = "Die Proben sind 14tägig am Mittwoch von 20 bis 22 Uhr."
-linktitle = "Probentermine"
-themen = ["termine"]
-title = "Probentermine"
-weight = 20
-
-+++
+---
+author: ""
+date: "2019-01-24"
+description: Die Proben sind 14tägig am Mittwoch von 20 bis 22 Uhr.
+linktitle: Probentermine
+themen:
+- termine
+title: Probentermine
+weight: 20
+---
 
 
 ## Unsere Probentermine
