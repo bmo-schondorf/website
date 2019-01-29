@@ -1,14 +1,17 @@
 +++
 comments = false
-date = "2015-04-14T22:17:00+00:00"
+date = 2011-01-29
 draft = false
 noauthor = true
 share = false
-title = "Über uns"
+linktitle = 'Über uns'
 type = "page"
 [menu.main]
 weight = 111
 +++
+
+## Über uns
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
