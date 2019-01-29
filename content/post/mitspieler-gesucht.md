@@ -1,14 +1,14 @@
----
-author: ""
-date: 2018-07-09
-linktitle: Mitspieler gesucht
-nomenu:
-  main
-title: Mitspieler gesucht
-weight: 25
-image: img/mitspieler.jpg
-themen: ["musiker"]
----
++++
+author = ""
+date = "2018-07-09"
+image = "img/mitspieler.jpg"
+linktitle = "Mitspieler gesucht"
+nomenu = "main"
+themen = ["musiker"]
+title = "Mitspieler gesucht"
+weight = 25
+
++++
 
 
 ## Mitspieler gesucht

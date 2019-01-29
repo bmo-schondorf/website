@@ -1,13 +1,14 @@
----
-author: ""
-date: 2018-07-09
-linktitle: Aktuelles
-title: Aktuelle Informationen
-description: Was gibt's Neues?
-weight: 10
-authorAvatar: hugo-logo.png
-themen: ["aktuell"]
----
++++
+author = ""
+authorAvatar = "hugo-logo.png"
+date = "2018-07-09"
+description = "Was gibt's Neues?"
+linktitle = "Aktuelles"
+themen = ["aktuell"]
+title = "Aktuelle Informationen"
+weight = 10
+
++++
 
 ## Was gibt's Neues?
 
