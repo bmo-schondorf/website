@@ -7,10 +7,10 @@ linktitle: Auftritte
 themen:
 - termine
 title: Unsere Auftritte
-weight: 30
+weight: 20
 ---
 
-## Die nächsten Auftritte und Konzerte
+# Die nächsten Auftritte und Konzerte
 
 ## 1. Mai 2019
 

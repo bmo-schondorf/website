@@ -12,7 +12,8 @@ canonifyurls    = true
   subtitle    = ""
   copyright   = "© Blasmusikorchester Schondorf 2019"
 
-  cover       = "img/bos-DSC_0976-bg-1920-2.jpg"
+  #cover        = "img/bos-DSC_0976-bg-1920-2.jpg"
+  cover        = "img/150705-DSC_0162-wide2.jpg"
   description = "Website des Blasmusikorchester Schondorf e.V."
   customCSS = []
 
