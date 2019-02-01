@@ -13,7 +13,8 @@ weight: 111
 Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
 Blasmusikorchester Schondorf e.V.  
-1. Vorstand: Manfred Billich  
+vertreten durch Manfred Billich oder Elisabeth Erath  
+Tel. 08807-8677, e-Mail m.billich.gestalt@t-online.de  
 
 ### 2. Erhebung und Verarbeitung persönlicher Daten
 

@@ -8,6 +8,23 @@ title: Impressum
 type: page
 weight: 111
 ---
-Blasorchester Schondorf e.V.  
-1. Vorstand: Manfred Billich  
 
+## Verantwortlich für die Inhalte der Homepage gemäß §55 Abs.2 RStV
+
+Blasorchester Schondorf e.V.  
+
+### Kontakt
+
+Manfred Billich  
+Langäcker 16, 86911 Dießen  
+Tel. 08807-8677, e-Mail m.billich.gestalt@t-online.de  
+
+### Vertretungsberechtigter Vorstand
+
+Manfred Billich (1. Vorsitzender)  
+Elisabeth Erath (2. Vorsitzende)  
+
+### Eintragung im Vereinsregister
+
+Registergericht Amtsgericht Augsburg  
+Registernummer VR 202194  
