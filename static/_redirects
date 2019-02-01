@@ -1,0 +1,4 @@
+# Redirect domain aliases to primary domain
+https://bmo-schondorf.de/* https://www.blasmusikorchester-schondorf.de/:splat 301!
+https://www.bmo-schondorf.de/* https://www.blasmusikorchester-schondorf.de/:splat 301!
+
