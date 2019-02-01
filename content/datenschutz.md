@@ -14,7 +14,7 @@ Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationa
 
 Blasmusikorchester Schondorf e.V.  
 vertreten durch Manfred Billich oder Elisabeth Erath  
-Tel. 08807-8677, e-Mail m.billich.gestalt@t-online.de  
+Tel. 08807-8677, E-Mail mbillich.gestalt@t-online.de  
 
 ### 2. Erhebung und Verarbeitung persönlicher Daten
 
