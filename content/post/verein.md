@@ -1,7 +1,7 @@
 ---
 date: "2018-07-09"
 description: Infos zum Blasmusikorchester Schondorf e.V
-image: img/writing.jpg
+image: img/einhorn-small.png
 themen:
 - verein
 title: Verein

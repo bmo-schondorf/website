@@ -1,7 +1,7 @@
 ---
 date: "2018-07-09"
 description: ""
-image: img/tags.jpg
+image: img/bos-saxofone-DSC_1004-1200.jpg
 nomenu: main
 themen:
 - musiker
