@@ -1,5 +1,5 @@
 ---
-date: "2018-07-09"
+date: "2018-12-15"
 description: Infos zum Blasmusikorchester Schondorf e.V
 image: img/einhorn-small.png
 themen:
@@ -8,11 +8,9 @@ title: Verein
 weight: 10
 ---
 
-Satzung
--------
+## Vereinsgründung
 
-Mitgliedsbeitrag
-----------------
+## Satzung
 
-Aktivitäten
------------
+## Aktivitäten
+
