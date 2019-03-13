@@ -1,7 +1,7 @@
 ---
-date: "2019-02-10"
+date: "2019-03-13"
 description: Die Proben sind 14tägig am Mittwoch von 20 bis 22 Uhr.
-image: img/150705-DSC_0159-1400.jpg
+image: img/140604-bos-probe-DSC_0101.jpg
 linktitle: Probentermine
 themen:
 - termine
@@ -16,9 +16,9 @@ Die Proben sind 14tägig am Mittwoch von 20 bis 22 Uhr.
 
 Die nächsten Termine:
 
-* Mittwoch, 13. Februar 2019
-* Mittwoch, 27. Februar 2019
 * Mittwoch, 13. März 2019
 * Mittwoch, 27. März 2019
-
-
+* Mittwoch, 10. April 2019
+* Mittwoch, 8. Mai 2019
+* Mittwoch, 22. Mai 2019
+* Mittwoch, 5. Juni 2019
